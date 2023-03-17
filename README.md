@@ -1,2 +1,2 @@
 # comprog-2
-Computer programming 2
+Computer Programming 2
